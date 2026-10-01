@@ -1,0 +1,6 @@
+data,descricao,categoria,tipo,valor
+2026-01-02,Salário de exemplo,Salário,receita,2500.00
+2026-01-03,Supermercado,Alimentação,despesa,320.50
+2026-01-04,Transporte,Transporte,despesa,95.00
+2026-01-05,Cinema,Lazer,despesa,45.00
+2026-01-08,Freelance fictício,Freelance,receita,350.00
